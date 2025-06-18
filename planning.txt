@@ -1,0 +1,27 @@
+Planning Website A1
+
+1.Home Page
+	- Video to entice reader to showcase data 
+		- with overlay to explain why data is so important
+		- introduce the relationship with data and artificial intelligence 
+		- explain more on data as currency topic
+		- opportunity on this page to do some hover, colors and tables and lists
+
+2.About Us Page
+	- top image or video to set the scene for page 2
+	- introduce Industry perspective for data
+		- image on the right 
+		- first letter diff for pseudo-element
+		- include span to highlight text in para
+	- ABOUT TEAM:
+		- for merge cell and table req
+		- image, name and blurb about each team member 
+
+3.Contact Us
+	- based on requirements:
+		- subject name
+		- textera content for message
+		- email/phone number
+		- radio/checkboxes
+		- submit and clear buttons
+		- final reset and send buttons
